@@ -1,4 +1,4 @@
 python
 
 def f(n) :
-    return n 
+    return n*n 
